@@ -1,0 +1,115 @@
+.container {
+    width: 85.375em;
+    height: 50em;
+}
+
+.img_girl {
+    width: 608px;
+    height: 395px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 193px;
+    left: 115px;
+}
+
+.box_spring {
+    position: absolute;
+    top: 242px;
+    left: 834px;
+    color: #FFF;
+    font-family: "Montserrat";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.h1_box {
+    position: absolute;
+    top: 242px;
+    left: 834px;
+    width: 472px;
+    color: #FFF;
+    font-family: "Montserrat";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.text1 {
+    position: absolute;
+    top: 316px;
+    left: 834px;
+    width: 29.5em;
+    color: #FFF;
+    font-family: "Raleway";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.a_txt {
+    position: absolute;
+    top: 524px;
+    left: 1206px;
+    color: var(--Accent-color, #EEC48B);
+    font-family: "Raleway";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #EEC48B;
+}
+
+.continer2 {
+    background-image: url(../img/Rectangle\ 98.png);
+    width: 1366px;
+    height: 600px;
+}
+
+.h2_box {
+    position: relative;
+    top: 90px;
+    left: 166px;
+    width: 502px;
+    color: #FFF;
+    font-family: "Montserrat";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.text2 {
+    position: relative;
+    top: 164px;
+    left: 166px;
+    width: 396px;
+    color: #FFF;
+    font-family: "Raleway";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    opacity: 0.7;
+}
+
+.a_txt2 {
+    position: relative;
+    top: 252px;
+    left: 166px;
+    color: var(--Accent-color, #EEC48B);
+    font-family: "Raleway";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #EEC48B;
+}
+
